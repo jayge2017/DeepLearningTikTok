@@ -1,6 +1,8 @@
 # DeepLearningTikTok
 A tutorial for journalists to build deep learning models in order to monitor trends on TikTok
 
+To read a more in-depth tutorial, check out my companion [blog post](https://jayge2017.medium.com/creating-a-deep-learning-model-to-track-trump-on-tiktok-5466ea503e34?sk=a77e003303c8a66b785edaabab85b3d9)
+
 ## Summary
 
 TikTok has become a rising app and an important information source for journalists. Protests are organized on the platform--in June teens and K-Pop stans trended as they falsely registered for a Trump rally to artificially sell out the event. Live protest footage has also been recorded and shared on the app. In addition to political activity, the app has also been used by QAnon to spread conspiracy theories. When a conspiracy theory that Wayfair was selling children started to trend, Wayfair stock prices started to drop.
